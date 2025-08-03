@@ -4,9 +4,12 @@ This Python program solves word search puzzles by first extracting the puzzle gr
 # Input
 ![grid](assets/grid.png)
 ![words](assets/words.png)
+<br>
+[Example Input](https://thewordsearch.com/puzzle/7/farm-animals)
 
 # Output
 ![output](assets/output.png)
+
 # Usage
 1. Clone the repository
 ```bash
