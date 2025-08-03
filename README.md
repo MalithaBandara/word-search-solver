@@ -1,6 +1,12 @@
 # word-search-solver
 This Python program solves word search puzzles by first extracting the puzzle grid and word list from an image using PaddleOCR. It detects the grid layout, recognizes all characters, and then searches for the given words in all 8 directions (horizontal, vertical, and diagonal). The program highlights the found words, making it easy to visualize the solution.
 
+# Input
+![grid](assets/grid.png)
+![words](assets/words.png)
+
+# Output
+![output](assets/output.png)
 # Usage
 1. Clone the repository
 ```bash
